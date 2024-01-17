@@ -7,3 +7,8 @@
 | HPFunLevel Management Min | Passed | 2024-01-16 | Unit |
 | Medicine is not expired | Passed | 2024-01-16 | Unit |
 | Is medicine name equals to the given name  | Passed | 2024-01-16 | Unit |
+| Is medicine type qeuals to the given one  | Passed | 2024-01-16 | Unit |
+| Is required age equals to the given one  | Passed | 2024-01-16 | Unit |
+| Hp increafe after taking medicine  | Failed | 2024-01-16 | Unit |
+| Hp decreases after taking expired medicine  | Failed | 2024-01-16 | Unit |
+| Cant eat medicine if you are younger than the required age   | Failed | 2024-01-16 | Unit |
