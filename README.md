@@ -15,3 +15,5 @@
 | How much Tamagochi likes the exercise  | Passed | 2024-01-16 | Unit |
 | Is exercise name equals to the given name  | Passed | 2024-01-16 | Unit |
 | Increase fun level with excercising        | Passed | 2024-01-16 | Unit |
+| Increase hunger with excercising        | Passed | 2024-01-16 | Unit |
+| Hp increafe after doing an excercise  | Passed | 2024-01-16 | Unit |
